@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PRJPesoIdeal
 {  /// <summary>
-/// Uma aplicação que calcula o peso ideal a partir das informações que são fornecidas pelo o usuarios
+/// Uma aplicação que calcula o peso ideal a partir das informações que são fornecidas pelos usuarios
 /// fins didadicos by: Lincoln Lima
 /// </summary>
     public partial class Form1 : Form
